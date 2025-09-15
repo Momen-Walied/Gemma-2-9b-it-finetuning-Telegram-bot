@@ -37,7 +37,7 @@ Unlike generic Arabic translators, this model is specifically trained on **Egypt
 - Natural conversational flow
 - Regional linguistic nuances
 
-## 🎥 Video Demo
+## 🎥 Video Tutorial
 
 <div align="center">
 
