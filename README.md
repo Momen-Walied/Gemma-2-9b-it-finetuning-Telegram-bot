@@ -41,7 +41,7 @@ Unlike generic Arabic translators, this model is specifically trained on **Egypt
 
 <div align="center">
 
-[![YouTube Video Demo](https://img.shields.io/badge/🎥-Watch%20Demo%20on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3hjUMs2JJak)
+[![YouTube Video Tutorial](https://img.shields.io/badge/🎥-Watch%20Demo%20on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3hjUMs2JJak)
 
 **Watch the complete walkthrough of the project from training to deployment!**
 
